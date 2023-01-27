@@ -1,6 +1,14 @@
+:root {
+    --serif: 'EB Garamond', serif;
+    --sans-serif: 'Montserrat', sans-serif;
+}
 /* reset default settings */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+
 }
